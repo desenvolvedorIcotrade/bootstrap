@@ -11,7 +11,7 @@ they should reciprocate that respect in addressing your issue or assessing
 patches and features.
 
 
-## Using the issue tracker
+##_ Using the issue tracker ./
 
 The [issue tracker](https://github.com/twbs/bootstrap/issues) is
 the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests)
